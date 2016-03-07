@@ -1,0 +1,29 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "Image Search",
+  "main": "img.js",
+  "scripts": {
+    "start": "node img.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "keywords": [
+    "image"
+  ],
+  "author": "hmm",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/hmm007/codecamp-imagesearch/issues"
+  },
+  "homepage": "https://github.com/hmm007/codecamp-imagesearch",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.1.4"
+  },
+   "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "engines": {
+    "node": "5.4.1"
+  }
+}
